@@ -1,54 +1,54 @@
-```markdown
-<h1 align="center">Hi there, I'm Pankaj Potdar 👋</h1>
-<p align="center">
-  <em>B.Tech CSE (AI & ML) | AI/ML Engineer & Cybersecurity Enthusiast</em>
-</p>
+# Hi there, I'm Pankaj 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+> **B.Tech in Computer Science & Engineering (AI & ML)**  
+> Focused on building intelligent systems, applied machine learning, and security engineering.
 
 ---
 
 ### 🛡️ About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Pankaj Potdar"
-        self.role = "AI/ML Engineer & Security Enthusiast"
-        self.focus_areas = [
-            "Machine Learning & Deep Learning",
-            "Adversarial Robustness & AI Security",
-            "Network Threat Detection & Anomaly Systems",
-            "Secure System Architecture"
-        ]
-        self.mission = "Building robust, intelligent systems with security at the core."
-
-    def current_status(self):
-        return "Exploring model interpretability, secure data pipelines, and intrusion detection."
-
-```
-
-* 🔭 **Current Focus:** Developing projects at the intersection of **Artificial Intelligence** and **Cybersecurity** (anomaly detection, adversarial defense).
-* 🧠 **Learning & Experimenting:** Deepening core knowledge in **PyTorch, Scikit-learn, network security protocols, and Linux environments**.
-* 💬 **Ask Me About:** Python automation, machine learning algorithms, and system defense strategies.
-* ⚡ **Philosophy:** *"The strongest systems understand both how data behaves and how threats operate."*
+* 💻 **Primary Focus:** Bridging Artificial Intelligence and Cybersecurity — exploring anomaly detection, secure data pipelines, and robust ML systems.
+* 🛠️ **Tech Stack:** Python, C++, Linux, Git, and data science frameworks.
+* 📚 **Current Learning:** Adversarial machine learning, secure software architecture, and network defense fundamentals.
+* 🎯 **Goal:** Designing resilient, high-performance systems with privacy and security embedded from the ground up.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 💻 Technologies & Frameworks
 
-**Languages & Systems**
+**Programming & Systems**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**AI & Machine Learning**
+**AI, Data Science & Machine Learning**
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Cybersecurity & Infrastructure**
+**Cybersecurity & Dev Tools**
+- ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📌 Core Areas of Interest
+
+| Domain | Focus Topics |
+| :--- | :--- |
+| **Machine Learning** | Predictive Modeling, Deep Learning, Feature Engineering, Interpretability |
+| **Cybersecurity** | Intrusion Detection Systems (IDS), Network Protocol Analysis, Threat Hunting |
+| **AI Security** | Adversarial Attacks & Defense, Data Poisoning Mitigation, Model Robustness |
 
 ---
 
-### 📬 Connect With Me
+### 🌐 Let's Connect
+
+- **LinkedIn:** [https://www.linkedin.com/in/pankaj-potdar-260030369?utm_source=share_via&utm_content=profile&utm_medium=member_ios](https://linkedin.com)
+- **Email:** pankajp9906@gmail.com
