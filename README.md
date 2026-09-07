@@ -50,5 +50,5 @@
 
 ### 🌐 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/pankaj-potdar-260030369?utm_source=share_via&utm_content=profile&utm_medium=member_ios](https://linkedin.com)
+- **LinkedIn:** https://www.linkedin.com/in/pankaj-potdar-260030369/
 - **Email:** pankajp9906@gmail.com
